@@ -1,0 +1,1281 @@
+fileFormatVersion: 2
+guid: 9ef48197a877de9469c989c1f8876b0a
+timeCreated: 1469820444
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Icon Sprite(Clean)_0
+    21300002: Icon Sprite(Clean)_1
+    21300004: Icon Sprite(Clean)_2
+    21300006: Icon Sprite(Clean)_3
+    21300008: Icon Sprite(Clean)_4
+    21300010: Icon Sprite(Clean)_5
+    21300012: Icon Sprite(Clean)_6
+    21300014: Icon Sprite(Clean)_7
+    21300016: Icon Sprite(Clean)_8
+    21300018: Icon Sprite(Clean)_9
+    21300020: Icon Sprite(Clean)_10
+    21300022: Icon Sprite(Clean)_11
+    21300024: Icon Sprite(Clean)_12
+    21300026: Icon Sprite(Clean)_13
+    21300028: Icon Sprite(Clean)_14
+    21300030: Icon Sprite(Clean)_15
+    21300032: Icon Sprite(Clean)_16
+    21300034: Icon Sprite(Clean)_17
+    21300036: Icon Sprite(Clean)_18
+    21300038: Icon Sprite(Clean)_19
+    21300040: Icon Sprite(Clean)_20
+    21300042: Icon Sprite(Clean)_21
+    21300044: Icon Sprite(Clean)_22
+    21300046: Icon Sprite(Clean)_23
+    21300048: Icon Sprite(Clean)_24
+    21300050: Icon Sprite(Clean)_25
+    21300052: Icon Sprite(Clean)_26
+    21300054: Icon Sprite(Clean)_27
+    21300056: Icon Sprite(Clean)_28
+    21300058: Icon Sprite(Clean)_29
+    21300060: Icon Sprite(Clean)_30
+    21300062: Icon Sprite(Clean)_31
+    21300064: Icon Sprite(Clean)_32
+    21300066: Icon Sprite(Clean)_33
+    21300068: Icon Sprite(Clean)_34
+    21300070: Icon Sprite(Clean)_35
+    21300072: Icon Sprite(Clean)_36
+    21300074: Icon Sprite(Clean)_37
+    21300076: Icon Sprite(Clean)_38
+    21300078: Icon Sprite(Clean)_39
+    21300080: Icon Sprite(Clean)_40
+    21300082: Icon Sprite(Clean)_41
+    21300084: Icon Sprite(Clean)_42
+    21300086: Icon Sprite(Clean)_43
+    21300088: Icon Sprite(Clean)_44
+    21300090: Icon Sprite(Clean)_45
+    21300092: Icon Sprite(Clean)_46
+    21300094: Icon Sprite(Clean)_47
+    21300096: Icon Sprite(Clean)_48
+    21300098: Icon Sprite(Clean)_49
+    21300100: Icon Sprite(Clean)_50
+    21300102: Icon Sprite(Clean)_51
+    21300104: Icon Sprite(Clean)_52
+    21300106: Icon Sprite(Clean)_53
+    21300108: Icon Sprite(Clean)_54
+    21300110: Icon Sprite(Clean)_55
+    21300112: Icon Sprite(Clean)_56
+    21300114: Icon Sprite(Clean)_57
+    21300116: Icon Sprite(Clean)_58
+    21300118: Icon Sprite(Clean)_59
+    21300120: Icon Sprite(Clean)_60
+    21300122: Icon Sprite(Clean)_61
+    21300124: Icon Sprite(Clean)_62
+    21300126: Icon Sprite(Clean)_63
+    21300128: Icon Sprite(Clean)_64
+    21300130: Icon Sprite(Clean)_65
+    21300132: Icon Sprite(Clean)_66
+    21300134: Icon Sprite(Clean)_67
+    21300136: Icon Sprite(Clean)_68
+    21300138: Icon Sprite(Clean)_69
+    21300140: Icon Sprite(Clean)_70
+    21300142: Icon Sprite(Clean)_71
+    21300144: Icon Sprite(Clean)_72
+    21300146: Icon Sprite(Clean)_73
+    21300148: Icon Sprite(Clean)_74
+    21300150: Icon Sprite(Clean)_75
+    21300152: Icon Sprite(Clean)_76
+    21300154: Icon Sprite(Clean)_77
+    21300156: Icon Sprite(Clean)_78
+    21300158: Icon Sprite(Clean)_79
+    21300160: Icon Sprite(Clean)_80
+    21300162: Icon Sprite(Clean)_81
+    21300164: Icon Sprite(Clean)_82
+    21300166: Icon Sprite(Clean)_83
+    21300168: Icon Sprite(Clean)_84
+    21300170: Icon Sprite(Clean)_85
+    21300172: Icon Sprite(Clean)_86
+    21300174: Icon Sprite(Clean)_87
+    21300176: Icon Sprite(Clean)_88
+    21300178: Icon Sprite(Clean)_89
+    21300180: Icon Sprite(Clean)_90
+    21300182: Icon Sprite(Clean)_91
+    21300184: Icon Sprite(Clean)_92
+    21300186: Icon Sprite(Clean)_93
+    21300188: Icon Sprite(Clean)_94
+    21300190: Icon Sprite(Clean)_95
+    21300192: Icon Sprite(Clean)_96
+    21300194: Icon Sprite(Clean)_97
+    21300196: Icon Sprite(Clean)_98
+    21300198: Icon Sprite(Clean)_99
+    21300200: Icon Sprite(Clean)_100
+    21300202: Icon Sprite(Clean)_101
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Icon Sprite(Clean)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 115
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 114
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 114
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 114
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 114
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 118
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 119
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 115
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 115
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 98
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 98
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_27
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 82
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_33
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_35
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 64
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 64
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_43
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 47
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_45
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 47
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 47
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_47
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 47
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 47
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_49
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 47
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 47
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_53
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 47
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 45
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_55
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 47
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_57
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 45
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_59
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 31
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 33
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_62
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 33
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_63
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 33
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_64
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 31
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_65
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_67
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 33
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_68
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_69
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_70
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_71
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 33
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_72
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 33
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_73
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 33
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 33
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_75
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 33
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_77
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_78
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_79
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_80
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_81
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_82
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_83
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_84
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_85
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_86
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_87
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_89
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 19
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_90
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_92
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 19
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_93
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 17
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_95
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_97
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_98
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 5
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_99
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_100
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Icon Sprite(Clean)_101
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1214 @@
+fileFormatVersion: 2
+guid: 26f846c7dc0140c4ea113681386bfc2e
+timeCreated: 1469819372
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: World 1 Sprites_0
+    21300002: World 1 Sprites_1
+    21300004: World 1 Sprites_2
+    21300006: World 1 Sprites_3
+    21300008: World 1 Sprites_4
+    21300010: World 1 Sprites_5
+    21300012: World 1 Sprites_6
+    21300014: World 1 Sprites_7
+    21300016: World 1 Sprites_8
+    21300018: World 1 Sprites_9
+    21300020: World 1 Sprites_10
+    21300022: World 1 Sprites_11
+    21300024: World 1 Sprites_12
+    21300026: World 1 Sprites_13
+    21300028: World 1 Sprites_14
+    21300030: World 1 Sprites_15
+    21300032: World 1 Sprites_16
+    21300034: World 1 Sprites_17
+    21300036: World 1 Sprites_18
+    21300038: World 1 Sprites_19
+    21300040: World 1 Sprites_20
+    21300042: World 1 Sprites_21
+    21300044: World 1 Sprites_22
+    21300046: World 1 Sprites_23
+    21300048: World 1 Sprites_24
+    21300050: World 1 Sprites_25
+    21300052: World 1 Sprites_26
+    21300054: World 1 Sprites_27
+    21300056: World 1 Sprites_28
+    21300058: World 1 Sprites_29
+    21300060: World 1 Sprites_30
+    21300062: World 1 Sprites_31
+    21300064: World 1 Sprites_32
+    21300066: World 1 Sprites_33
+    21300068: World 1 Sprites_34
+    21300070: World 1 Sprites_35
+    21300072: World 1 Sprites_36
+    21300074: World 1 Sprites_37
+    21300076: World 1 Sprites_38
+    21300078: World 1 Sprites_39
+    21300080: World 1 Sprites_40
+    21300082: World 1 Sprites_41
+    21300084: World 1 Sprites_42
+    21300086: World 1 Sprites_43
+    21300088: World 1 Sprites_44
+    21300090: World 1 Sprites_45
+    21300092: World 1 Sprites_46
+    21300094: World 1 Sprites_47
+    21300096: World 1 Sprites_48
+    21300098: World 1 Sprites_49
+    21300100: World 1 Sprites_50
+    21300102: World 1 Sprites_51
+    21300104: World 1 Sprites_52
+    21300106: World 1 Sprites_53
+    21300108: World 1 Sprites_54
+    21300110: World 1 Sprites_55
+    21300112: World 1 Sprites_56
+    21300114: World 1 Sprites_57
+    21300116: World 1 Sprites_58
+    21300118: World 1 Sprites_59
+    21300120: World 1 Sprites_60
+    21300122: World 1 Sprites_61
+    21300124: World 1 Sprites_62
+    21300126: World 1 Sprites_63
+    21300128: World 1 Sprites_64
+    21300130: World 1 Sprites_65
+    21300132: World 1 Sprites_66
+    21300134: World 1 Sprites_67
+    21300136: World 1 Sprites_68
+    21300138: World 1 Sprites_69
+    21300140: World 1 Sprites_70
+    21300142: World 1 Sprites_71
+    21300144: World 1 Sprites_72
+    21300146: World 1 Sprites_73
+    21300148: World 1 Sprites_74
+    21300150: World 1 Sprites_75
+    21300152: World 1 Sprites_76
+    21300154: World 1 Sprites_77
+    21300156: World 1 Sprites_78
+    21300158: World 1 Sprites_79
+    21300160: World 1 Sprites_80
+    21300162: World 1 Sprites_81
+    21300164: World 1 Sprites_82
+    21300166: World 1 Sprites_83
+    21300168: World 1 Sprites_84
+    21300170: World 1 Sprites_85
+    21300172: World 1 Sprites_86
+    21300174: World 1 Sprites_87
+    21300176: World 1 Sprites_88
+    21300178: World 1 Sprites_89
+    21300180: World 1 Sprites_90
+    21300182: World 1 Sprites_91
+    21300184: World 1 Sprites_92
+    21300186: World 1 Sprites_93
+    21300188: World 1 Sprites_94
+    21300190: World 1 Sprites_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: World 1 Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 170
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 170
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 170
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 171
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 171
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 170
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 170
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 14
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 150
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 150
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 150
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 150
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 150
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 150
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 150
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 130
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 130
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 130
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 130
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 130
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 130
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 110
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 110
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 110
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 110
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 68
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 63
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 91
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 91
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 63
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 63
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 63
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 73
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 80
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 73
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 73
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 80
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 74
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 35
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 35
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 35
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 35
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 35
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 35
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 4, y: -16}
+        - {x: 16, y: -1}
+        - {x: 16, y: 16}
+    - name: World 1 Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 15
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 11
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 11
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 9
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 8
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: World 1 Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

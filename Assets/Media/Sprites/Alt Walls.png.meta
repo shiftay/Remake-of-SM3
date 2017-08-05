@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 3c42b08d645d0a044ab6c8fe207fe963
+timeCreated: 1470685155
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Alt Walls_0
+    21300002: Alt Walls_1
+    21300004: Alt Walls_2
+    21300006: Alt Walls_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Alt Walls_0
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 397
+        width: 484
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -190.24231, y: 62.947723}
+        - {x: -191.24231, y: 61.947723}
+        - {x: -191.24231, y: -49.052277}
+        - {x: -189.24231, y: -58.052277}
+        - {x: -77.24231, y: -55.052277}
+        - {x: -73.24231, y: -53.052277}
+        - {x: -70.24231, y: -44.052277}
+        - {x: -47.24231, y: -33.052277}
+        - {x: -37.24231, y: -55.052277}
+        - {x: -25.24231, y: -56.052277}
+        - {x: 156.75769, y: -55.052277}
+        - {x: 176.75769, y: -59.052277}
+        - {x: 186.75769, y: -48.052277}
+        - {x: 188.75769, y: -62.052277}
+        - {x: 191.75769, y: -62.052277}
+        - {x: 191.75769, y: 62.947723}
+    - name: Alt Walls_1
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 13
+        width: 467
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 181.40051, y: -91.23597}
+        - {x: 23.400513, y: -91.23597}
+        - {x: 23.400513, y: -1.2359695}
+        - {x: 22.400513, y: -0.23596954}
+        - {x: 22.400513, y: 121.76403}
+        - {x: 21.400513, y: 122.76403}
+        - {x: -183.59949, y: 122.76403}
+        - {x: -184.59949, y: 121.76403}
+        - {x: -184.59949, y: -121.23597}
+        - {x: -183.59949, y: -122.23597}
+        - {x: 184.40051, y: -122.23597}
+        - {x: 185.40051, y: -121.23597}
+        - {x: 185.40051, y: -93.23597}
+        - {x: 184.40051, y: -92.23597}
+      - - {x: 37.400513, y: -77.23597}
+        - {x: 34.400513, y: -78.23597}
+        - {x: 34.400513, y: -86.23597}
+        - {x: 43.400513, y: -86.23597}
+        - {x: 44.400513, y: -84.23597}
+        - {x: 44.400513, y: -78.23597}
+        - {x: 41.400513, y: -77.23597}
+    - name: Alt Walls_2
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 13
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Alt Walls_3
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 13
+        width: 709
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -177.0586, y: 122.76403}
+        - {x: -178.0586, y: 121.76403}
+        - {x: -178.0586, y: -0.23596954}
+        - {x: -179.0586, y: -1.2359695}
+        - {x: -179.0586, y: -67.23597}
+        - {x: -180.0586, y: -68.23597}
+        - {x: -180.0586, y: -70.23597}
+        - {x: -179.0586, y: -71.23597}
+        - {x: -179.0586, y: -91.23597}
+        - {x: -186.0586, y: -91.23597}
+        - {x: -187.0586, y: -90.23597}
+        - {x: -189.0586, y: -90.23597}
+        - {x: -190.0586, y: -91.23597}
+        - {x: -276.0586, y: -91.23597}
+        - {x: -280.0586, y: -95.23597}
+        - {x: -280.0586, y: -118.23597}
+        - {x: -277.0586, y: -122.23597}
+        - {x: 280.9414, y: -122.23597}
+        - {x: 280.9414, y: 122.76403}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

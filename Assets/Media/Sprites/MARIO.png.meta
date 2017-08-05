@@ -1,0 +1,4329 @@
+fileFormatVersion: 2
+guid: 97ecd65e9878bb341812b211e6f00ba1
+timeCreated: 1469657902
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Super_Mario_3_Mario_SpriteSheet_0
+    21300002: Super_Mario_3_Mario_SpriteSheet_1
+    21300004: Super_Mario_3_Mario_SpriteSheet_2
+    21300006: Super_Mario_3_Mario_SpriteSheet_3
+    21300008: Super_Mario_3_Mario_SpriteSheet_4
+    21300010: Super_Mario_3_Mario_SpriteSheet_5
+    21300012: Super_Mario_3_Mario_SpriteSheet_6
+    21300014: Super_Mario_3_Mario_SpriteSheet_7
+    21300016: Super_Mario_3_Mario_SpriteSheet_8
+    21300018: Super_Mario_3_Mario_SpriteSheet_9
+    21300020: Super_Mario_3_Mario_SpriteSheet_10
+    21300022: Super_Mario_3_Mario_SpriteSheet_11
+    21300024: Super_Mario_3_Mario_SpriteSheet_12
+    21300026: Super_Mario_3_Mario_SpriteSheet_13
+    21300028: Super_Mario_3_Mario_SpriteSheet_14
+    21300030: Super_Mario_3_Mario_SpriteSheet_15
+    21300032: Super_Mario_3_Mario_SpriteSheet_16
+    21300034: Super_Mario_3_Mario_SpriteSheet_17
+    21300036: Super_Mario_3_Mario_SpriteSheet_18
+    21300038: Super_Mario_3_Mario_SpriteSheet_19
+    21300040: Super_Mario_3_Mario_SpriteSheet_20
+    21300042: Super_Mario_3_Mario_SpriteSheet_21
+    21300044: Super_Mario_3_Mario_SpriteSheet_22
+    21300046: Super_Mario_3_Mario_SpriteSheet_23
+    21300048: Super_Mario_3_Mario_SpriteSheet_24
+    21300050: Super_Mario_3_Mario_SpriteSheet_25
+    21300052: Super_Mario_3_Mario_SpriteSheet_26
+    21300054: Super_Mario_3_Mario_SpriteSheet_27
+    21300056: Super_Mario_3_Mario_SpriteSheet_28
+    21300058: Super_Mario_3_Mario_SpriteSheet_29
+    21300060: Super_Mario_3_Mario_SpriteSheet_30
+    21300062: Super_Mario_3_Mario_SpriteSheet_31
+    21300064: Super_Mario_3_Mario_SpriteSheet_32
+    21300066: Super_Mario_3_Mario_SpriteSheet_33
+    21300068: Super_Mario_3_Mario_SpriteSheet_34
+    21300070: Super_Mario_3_Mario_SpriteSheet_35
+    21300072: Super_Mario_3_Mario_SpriteSheet_36
+    21300074: Super_Mario_3_Mario_SpriteSheet_37
+    21300076: Super_Mario_3_Mario_SpriteSheet_38
+    21300078: Super_Mario_3_Mario_SpriteSheet_39
+    21300080: Super_Mario_3_Mario_SpriteSheet_40
+    21300082: Super_Mario_3_Mario_SpriteSheet_41
+    21300084: Super_Mario_3_Mario_SpriteSheet_42
+    21300086: Super_Mario_3_Mario_SpriteSheet_43
+    21300088: Super_Mario_3_Mario_SpriteSheet_44
+    21300090: Super_Mario_3_Mario_SpriteSheet_45
+    21300092: Super_Mario_3_Mario_SpriteSheet_46
+    21300094: Super_Mario_3_Mario_SpriteSheet_47
+    21300096: Super_Mario_3_Mario_SpriteSheet_48
+    21300098: Super_Mario_3_Mario_SpriteSheet_49
+    21300100: Super_Mario_3_Mario_SpriteSheet_50
+    21300102: Super_Mario_3_Mario_SpriteSheet_51
+    21300104: Super_Mario_3_Mario_SpriteSheet_52
+    21300106: Super_Mario_3_Mario_SpriteSheet_53
+    21300108: Super_Mario_3_Mario_SpriteSheet_54
+    21300110: Super_Mario_3_Mario_SpriteSheet_55
+    21300112: Super_Mario_3_Mario_SpriteSheet_56
+    21300114: Super_Mario_3_Mario_SpriteSheet_57
+    21300116: Super_Mario_3_Mario_SpriteSheet_58
+    21300118: Super_Mario_3_Mario_SpriteSheet_59
+    21300120: Super_Mario_3_Mario_SpriteSheet_60
+    21300122: Super_Mario_3_Mario_SpriteSheet_61
+    21300124: Super_Mario_3_Mario_SpriteSheet_62
+    21300126: Super_Mario_3_Mario_SpriteSheet_63
+    21300128: Super_Mario_3_Mario_SpriteSheet_64
+    21300130: Super_Mario_3_Mario_SpriteSheet_65
+    21300132: Super_Mario_3_Mario_SpriteSheet_66
+    21300134: Super_Mario_3_Mario_SpriteSheet_67
+    21300136: Super_Mario_3_Mario_SpriteSheet_68
+    21300138: Super_Mario_3_Mario_SpriteSheet_69
+    21300140: Super_Mario_3_Mario_SpriteSheet_70
+    21300142: Super_Mario_3_Mario_SpriteSheet_71
+    21300144: Super_Mario_3_Mario_SpriteSheet_72
+    21300146: Super_Mario_3_Mario_SpriteSheet_73
+    21300148: Super_Mario_3_Mario_SpriteSheet_74
+    21300150: Super_Mario_3_Mario_SpriteSheet_75
+    21300152: Super_Mario_3_Mario_SpriteSheet_76
+    21300154: Super_Mario_3_Mario_SpriteSheet_77
+    21300156: Super_Mario_3_Mario_SpriteSheet_78
+    21300158: Super_Mario_3_Mario_SpriteSheet_79
+    21300160: Super_Mario_3_Mario_SpriteSheet_80
+    21300162: Super_Mario_3_Mario_SpriteSheet_81
+    21300164: Super_Mario_3_Mario_SpriteSheet_82
+    21300166: Super_Mario_3_Mario_SpriteSheet_83
+    21300168: Super_Mario_3_Mario_SpriteSheet_84
+    21300170: Super_Mario_3_Mario_SpriteSheet_85
+    21300172: Super_Mario_3_Mario_SpriteSheet_86
+    21300174: Super_Mario_3_Mario_SpriteSheet_87
+    21300176: Super_Mario_3_Mario_SpriteSheet_88
+    21300178: Super_Mario_3_Mario_SpriteSheet_89
+    21300180: Super_Mario_3_Mario_SpriteSheet_90
+    21300182: Super_Mario_3_Mario_SpriteSheet_91
+    21300184: Super_Mario_3_Mario_SpriteSheet_92
+    21300186: Super_Mario_3_Mario_SpriteSheet_93
+    21300188: Super_Mario_3_Mario_SpriteSheet_94
+    21300190: Super_Mario_3_Mario_SpriteSheet_95
+    21300192: Super_Mario_3_Mario_SpriteSheet_96
+    21300194: Super_Mario_3_Mario_SpriteSheet_97
+    21300196: Super_Mario_3_Mario_SpriteSheet_98
+    21300198: Super_Mario_3_Mario_SpriteSheet_99
+    21300200: Super_Mario_3_Mario_SpriteSheet_100
+    21300202: Super_Mario_3_Mario_SpriteSheet_101
+    21300204: Super_Mario_3_Mario_SpriteSheet_102
+    21300206: Super_Mario_3_Mario_SpriteSheet_103
+    21300208: Super_Mario_3_Mario_SpriteSheet_104
+    21300210: Super_Mario_3_Mario_SpriteSheet_105
+    21300212: Super_Mario_3_Mario_SpriteSheet_106
+    21300214: Super_Mario_3_Mario_SpriteSheet_107
+    21300216: Super_Mario_3_Mario_SpriteSheet_108
+    21300218: Super_Mario_3_Mario_SpriteSheet_109
+    21300220: Super_Mario_3_Mario_SpriteSheet_110
+    21300222: Super_Mario_3_Mario_SpriteSheet_111
+    21300224: Super_Mario_3_Mario_SpriteSheet_112
+    21300226: Super_Mario_3_Mario_SpriteSheet_113
+    21300228: Super_Mario_3_Mario_SpriteSheet_114
+    21300230: Super_Mario_3_Mario_SpriteSheet_115
+    21300232: Super_Mario_3_Mario_SpriteSheet_116
+    21300234: Super_Mario_3_Mario_SpriteSheet_117
+    21300236: Super_Mario_3_Mario_SpriteSheet_118
+    21300238: Super_Mario_3_Mario_SpriteSheet_119
+    21300240: Super_Mario_3_Mario_SpriteSheet_120
+    21300242: Super_Mario_3_Mario_SpriteSheet_121
+    21300244: Super_Mario_3_Mario_SpriteSheet_122
+    21300246: Super_Mario_3_Mario_SpriteSheet_123
+    21300248: Super_Mario_3_Mario_SpriteSheet_124
+    21300250: Super_Mario_3_Mario_SpriteSheet_125
+    21300252: Super_Mario_3_Mario_SpriteSheet_126
+    21300254: Super_Mario_3_Mario_SpriteSheet_127
+    21300256: Super_Mario_3_Mario_SpriteSheet_128
+    21300258: Super_Mario_3_Mario_SpriteSheet_129
+    21300260: Super_Mario_3_Mario_SpriteSheet_130
+    21300262: Super_Mario_3_Mario_SpriteSheet_131
+    21300264: Super_Mario_3_Mario_SpriteSheet_132
+    21300266: Super_Mario_3_Mario_SpriteSheet_133
+    21300268: Super_Mario_3_Mario_SpriteSheet_134
+    21300270: Super_Mario_3_Mario_SpriteSheet_135
+    21300272: Super_Mario_3_Mario_SpriteSheet_136
+    21300274: Super_Mario_3_Mario_SpriteSheet_137
+    21300276: Super_Mario_3_Mario_SpriteSheet_138
+    21300278: Super_Mario_3_Mario_SpriteSheet_139
+    21300280: Super_Mario_3_Mario_SpriteSheet_140
+    21300282: Super_Mario_3_Mario_SpriteSheet_141
+    21300284: Super_Mario_3_Mario_SpriteSheet_142
+    21300286: Super_Mario_3_Mario_SpriteSheet_143
+    21300288: Super_Mario_3_Mario_SpriteSheet_144
+    21300290: Super_Mario_3_Mario_SpriteSheet_145
+    21300292: Super_Mario_3_Mario_SpriteSheet_146
+    21300294: Super_Mario_3_Mario_SpriteSheet_147
+    21300296: Super_Mario_3_Mario_SpriteSheet_148
+    21300298: Super_Mario_3_Mario_SpriteSheet_149
+    21300300: Super_Mario_3_Mario_SpriteSheet_150
+    21300302: Super_Mario_3_Mario_SpriteSheet_151
+    21300304: Super_Mario_3_Mario_SpriteSheet_152
+    21300306: Super_Mario_3_Mario_SpriteSheet_153
+    21300308: Super_Mario_3_Mario_SpriteSheet_154
+    21300310: Super_Mario_3_Mario_SpriteSheet_155
+    21300312: Super_Mario_3_Mario_SpriteSheet_156
+    21300314: Super_Mario_3_Mario_SpriteSheet_157
+    21300316: Super_Mario_3_Mario_SpriteSheet_158
+    21300318: Super_Mario_3_Mario_SpriteSheet_159
+    21300320: Super_Mario_3_Mario_SpriteSheet_160
+    21300322: Super_Mario_3_Mario_SpriteSheet_161
+    21300324: Super_Mario_3_Mario_SpriteSheet_162
+    21300326: Super_Mario_3_Mario_SpriteSheet_163
+    21300328: Super_Mario_3_Mario_SpriteSheet_164
+    21300330: Super_Mario_3_Mario_SpriteSheet_165
+    21300332: Super_Mario_3_Mario_SpriteSheet_166
+    21300334: Super_Mario_3_Mario_SpriteSheet_167
+    21300336: Super_Mario_3_Mario_SpriteSheet_168
+    21300338: Super_Mario_3_Mario_SpriteSheet_169
+    21300340: Super_Mario_3_Mario_SpriteSheet_170
+    21300342: Super_Mario_3_Mario_SpriteSheet_171
+    21300344: Super_Mario_3_Mario_SpriteSheet_172
+    21300346: Super_Mario_3_Mario_SpriteSheet_173
+    21300348: Super_Mario_3_Mario_SpriteSheet_174
+    21300350: Super_Mario_3_Mario_SpriteSheet_175
+    21300352: Super_Mario_3_Mario_SpriteSheet_176
+    21300354: Super_Mario_3_Mario_SpriteSheet_177
+    21300356: Super_Mario_3_Mario_SpriteSheet_178
+    21300358: Super_Mario_3_Mario_SpriteSheet_179
+    21300360: Super_Mario_3_Mario_SpriteSheet_180
+    21300362: Super_Mario_3_Mario_SpriteSheet_181
+    21300364: Super_Mario_3_Mario_SpriteSheet_182
+    21300366: Super_Mario_3_Mario_SpriteSheet_183
+    21300368: Super_Mario_3_Mario_SpriteSheet_184
+    21300370: Super_Mario_3_Mario_SpriteSheet_185
+    21300372: Super_Mario_3_Mario_SpriteSheet_186
+    21300374: Super_Mario_3_Mario_SpriteSheet_187
+    21300376: Super_Mario_3_Mario_SpriteSheet_188
+    21300378: Super_Mario_3_Mario_SpriteSheet_189
+    21300380: Super_Mario_3_Mario_SpriteSheet_190
+    21300382: Super_Mario_3_Mario_SpriteSheet_191
+    21300384: Super_Mario_3_Mario_SpriteSheet_192
+    21300386: Super_Mario_3_Mario_SpriteSheet_193
+    21300388: Super_Mario_3_Mario_SpriteSheet_194
+    21300390: Super_Mario_3_Mario_SpriteSheet_195
+    21300392: Super_Mario_3_Mario_SpriteSheet_196
+    21300394: Super_Mario_3_Mario_SpriteSheet_197
+    21300396: Super_Mario_3_Mario_SpriteSheet_198
+    21300398: Super_Mario_3_Mario_SpriteSheet_199
+    21300400: Super_Mario_3_Mario_SpriteSheet_200
+    21300402: Super_Mario_3_Mario_SpriteSheet_201
+    21300404: Super_Mario_3_Mario_SpriteSheet_202
+    21300406: Super_Mario_3_Mario_SpriteSheet_203
+    21300408: Super_Mario_3_Mario_SpriteSheet_204
+    21300410: Super_Mario_3_Mario_SpriteSheet_205
+    21300412: Super_Mario_3_Mario_SpriteSheet_206
+    21300414: Super_Mario_3_Mario_SpriteSheet_207
+    21300416: Super_Mario_3_Mario_SpriteSheet_208
+    21300418: Super_Mario_3_Mario_SpriteSheet_209
+    21300420: Super_Mario_3_Mario_SpriteSheet_210
+    21300422: Super_Mario_3_Mario_SpriteSheet_211
+    21300424: Super_Mario_3_Mario_SpriteSheet_212
+    21300426: Super_Mario_3_Mario_SpriteSheet_213
+    21300428: Super_Mario_3_Mario_SpriteSheet_214
+    21300430: Super_Mario_3_Mario_SpriteSheet_215
+    21300432: Super_Mario_3_Mario_SpriteSheet_216
+    21300434: Super_Mario_3_Mario_SpriteSheet_217
+    21300436: Super_Mario_3_Mario_SpriteSheet_218
+    21300438: Super_Mario_3_Mario_SpriteSheet_219
+    21300440: Super_Mario_3_Mario_SpriteSheet_220
+    21300442: Super_Mario_3_Mario_SpriteSheet_221
+    21300444: Super_Mario_3_Mario_SpriteSheet_222
+    21300446: Super_Mario_3_Mario_SpriteSheet_223
+    21300448: Super_Mario_3_Mario_SpriteSheet_224
+    21300450: Super_Mario_3_Mario_SpriteSheet_225
+    21300452: Super_Mario_3_Mario_SpriteSheet_226
+    21300454: Super_Mario_3_Mario_SpriteSheet_227
+    21300456: Super_Mario_3_Mario_SpriteSheet_228
+    21300458: Super_Mario_3_Mario_SpriteSheet_229
+    21300460: Super_Mario_3_Mario_SpriteSheet_230
+    21300462: Super_Mario_3_Mario_SpriteSheet_231
+    21300464: Super_Mario_3_Mario_SpriteSheet_232
+    21300466: Super_Mario_3_Mario_SpriteSheet_233
+    21300468: Super_Mario_3_Mario_SpriteSheet_234
+    21300470: Super_Mario_3_Mario_SpriteSheet_235
+    21300472: Super_Mario_3_Mario_SpriteSheet_236
+    21300474: Super_Mario_3_Mario_SpriteSheet_237
+    21300476: Super_Mario_3_Mario_SpriteSheet_238
+    21300478: Super_Mario_3_Mario_SpriteSheet_239
+    21300480: Super_Mario_3_Mario_SpriteSheet_240
+    21300482: Super_Mario_3_Mario_SpriteSheet_241
+    21300484: Super_Mario_3_Mario_SpriteSheet_242
+    21300486: Super_Mario_3_Mario_SpriteSheet_243
+    21300488: Super_Mario_3_Mario_SpriteSheet_244
+    21300490: Super_Mario_3_Mario_SpriteSheet_245
+    21300492: Super_Mario_3_Mario_SpriteSheet_246
+    21300494: Super_Mario_3_Mario_SpriteSheet_247
+    21300496: Super_Mario_3_Mario_SpriteSheet_248
+    21300498: Super_Mario_3_Mario_SpriteSheet_249
+    21300500: Super_Mario_3_Mario_SpriteSheet_250
+    21300502: Super_Mario_3_Mario_SpriteSheet_251
+    21300504: Super_Mario_3_Mario_SpriteSheet_252
+    21300506: Super_Mario_3_Mario_SpriteSheet_253
+    21300508: Super_Mario_3_Mario_SpriteSheet_254
+    21300510: Super_Mario_3_Mario_SpriteSheet_255
+    21300512: Super_Mario_3_Mario_SpriteSheet_256
+    21300514: Super_Mario_3_Mario_SpriteSheet_257
+    21300516: Super_Mario_3_Mario_SpriteSheet_258
+    21300518: Super_Mario_3_Mario_SpriteSheet_259
+    21300520: Super_Mario_3_Mario_SpriteSheet_260
+    21300522: Super_Mario_3_Mario_SpriteSheet_261
+    21300524: Super_Mario_3_Mario_SpriteSheet_262
+    21300526: Super_Mario_3_Mario_SpriteSheet_263
+    21300528: Super_Mario_3_Mario_SpriteSheet_264
+    21300530: Super_Mario_3_Mario_SpriteSheet_265
+    21300532: Super_Mario_3_Mario_SpriteSheet_266
+    21300534: Super_Mario_3_Mario_SpriteSheet_267
+    21300536: Super_Mario_3_Mario_SpriteSheet_268
+    21300538: Super_Mario_3_Mario_SpriteSheet_269
+    21300540: Super_Mario_3_Mario_SpriteSheet_270
+    21300542: Super_Mario_3_Mario_SpriteSheet_271
+    21300544: Super_Mario_3_Mario_SpriteSheet_272
+    21300546: Super_Mario_3_Mario_SpriteSheet_273
+    21300548: Super_Mario_3_Mario_SpriteSheet_274
+    21300550: Super_Mario_3_Mario_SpriteSheet_275
+    21300552: Super_Mario_3_Mario_SpriteSheet_276
+    21300554: Super_Mario_3_Mario_SpriteSheet_277
+    21300556: Super_Mario_3_Mario_SpriteSheet_278
+    21300558: Super_Mario_3_Mario_SpriteSheet_279
+    21300560: Super_Mario_3_Mario_SpriteSheet_280
+    21300562: Super_Mario_3_Mario_SpriteSheet_281
+    21300564: Super_Mario_3_Mario_SpriteSheet_282
+    21300566: Super_Mario_3_Mario_SpriteSheet_283
+    21300568: Super_Mario_3_Mario_SpriteSheet_284
+    21300570: Super_Mario_3_Mario_SpriteSheet_285
+    21300572: Super_Mario_3_Mario_SpriteSheet_286
+    21300574: Super_Mario_3_Mario_SpriteSheet_287
+    21300576: Super_Mario_3_Mario_SpriteSheet_288
+    21300578: Super_Mario_3_Mario_SpriteSheet_289
+    21300580: Super_Mario_3_Mario_SpriteSheet_290
+    21300582: Super_Mario_3_Mario_SpriteSheet_291
+    21300584: Super_Mario_3_Mario_SpriteSheet_292
+    21300586: Super_Mario_3_Mario_SpriteSheet_293
+    21300588: Super_Mario_3_Mario_SpriteSheet_294
+    21300590: Super_Mario_3_Mario_SpriteSheet_295
+    21300592: Super_Mario_3_Mario_SpriteSheet_296
+    21300594: Super_Mario_3_Mario_SpriteSheet_297
+    21300596: Super_Mario_3_Mario_SpriteSheet_298
+    21300598: Super_Mario_3_Mario_SpriteSheet_299
+    21300600: Super_Mario_3_Mario_SpriteSheet_300
+    21300602: Super_Mario_3_Mario_SpriteSheet_301
+    21300604: Super_Mario_3_Mario_SpriteSheet_302
+    21300606: Super_Mario_3_Mario_SpriteSheet_303
+    21300608: Super_Mario_3_Mario_SpriteSheet_304
+    21300610: Super_Mario_3_Mario_SpriteSheet_305
+    21300612: Super_Mario_3_Mario_SpriteSheet_306
+    21300614: Super_Mario_3_Mario_SpriteSheet_307
+    21300616: Super_Mario_3_Mario_SpriteSheet_308
+    21300618: Super_Mario_3_Mario_SpriteSheet_309
+    21300620: Super_Mario_3_Mario_SpriteSheet_310
+    21300622: Super_Mario_3_Mario_SpriteSheet_311
+    21300624: Super_Mario_3_Mario_SpriteSheet_312
+    21300626: Super_Mario_3_Mario_SpriteSheet_313
+    21300628: Super_Mario_3_Mario_SpriteSheet_314
+    21300630: Super_Mario_3_Mario_SpriteSheet_315
+    21300632: Super_Mario_3_Mario_SpriteSheet_316
+    21300634: Super_Mario_3_Mario_SpriteSheet_317
+    21300636: Super_Mario_3_Mario_SpriteSheet_318
+    21300638: Super_Mario_3_Mario_SpriteSheet_319
+    21300640: Super_Mario_3_Mario_SpriteSheet_320
+    21300642: Super_Mario_3_Mario_SpriteSheet_321
+    21300644: Super_Mario_3_Mario_SpriteSheet_322
+    21300646: Super_Mario_3_Mario_SpriteSheet_323
+    21300648: Super_Mario_3_Mario_SpriteSheet_324
+    21300650: Super_Mario_3_Mario_SpriteSheet_325
+    21300652: Super_Mario_3_Mario_SpriteSheet_326
+    21300654: Super_Mario_3_Mario_SpriteSheet_327
+    21300656: Super_Mario_3_Mario_SpriteSheet_328
+    21300658: Super_Mario_3_Mario_SpriteSheet_329
+    21300660: Super_Mario_3_Mario_SpriteSheet_330
+    21300662: Super_Mario_3_Mario_SpriteSheet_331
+    21300664: Super_Mario_3_Mario_SpriteSheet_332
+    21300666: Super_Mario_3_Mario_SpriteSheet_333
+    21300668: Super_Mario_3_Mario_SpriteSheet_334
+    21300670: Super_Mario_3_Mario_SpriteSheet_335
+    21300672: Super_Mario_3_Mario_SpriteSheet_336
+    21300674: Super_Mario_3_Mario_SpriteSheet_337
+    21300676: Super_Mario_3_Mario_SpriteSheet_338
+    21300678: Super_Mario_3_Mario_SpriteSheet_339
+    21300680: Super_Mario_3_Mario_SpriteSheet_340
+    21300682: Super_Mario_3_Mario_SpriteSheet_341
+    21300684: Super_Mario_3_Mario_SpriteSheet_342
+    21300686: Super_Mario_3_Mario_SpriteSheet_343
+    21300688: Super_Mario_3_Mario_SpriteSheet_344
+    21300690: Super_Mario_3_Mario_SpriteSheet_345
+    21300692: Super_Mario_3_Mario_SpriteSheet_346
+    21300694: Super_Mario_3_Mario_SpriteSheet_347
+    21300696: Super_Mario_3_Mario_SpriteSheet_348
+    21300698: Super_Mario_3_Mario_SpriteSheet_349
+    21300700: Super_Mario_3_Mario_SpriteSheet_350
+    21300702: Super_Mario_3_Mario_SpriteSheet_351
+    21300704: Super_Mario_3_Mario_SpriteSheet_352
+    21300706: Super_Mario_3_Mario_SpriteSheet_353
+    21300708: Super_Mario_3_Mario_SpriteSheet_354
+    21300710: Super_Mario_3_Mario_SpriteSheet_355
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Super_Mario_3_Mario_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1482
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1480
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1478
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1478
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1485
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1484
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1485
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1485
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1462
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1462
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1462
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1462
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1442
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1440
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1438
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1438
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1435
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1433
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1435
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1435
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1402
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1403
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1403
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1402
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1402
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1363
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1362
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1362
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1362
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1362
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1363
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1322
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1322
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1322
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1322
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1322
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1282
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1283
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1283
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1282
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1282
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1241
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1237
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1237
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1237
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1237
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1237
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1237
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1237
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1237
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1241
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1197
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1197
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1197
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1196
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1196
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1197
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1197
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1197
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1157
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1157
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1157
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1157
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1157
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1157
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1157
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1157
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1157
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1157
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1157
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1157
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1117
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1117
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1117
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1117
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1117
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1117
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1080
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1081
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1080
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1080
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1080
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1080
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1081
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1080
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1041
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1037
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1037
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1036
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1036
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1036
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1036
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1036
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1036
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1037
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1037
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1041
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 996
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 996
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 997
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 996
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 995
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 995
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 996
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 997
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 996
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 996
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 996
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 957
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 956
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 956
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 957
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 956
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 956
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 956
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 956
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 957
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 956
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 956
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 957
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 916
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 916
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 916
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 916
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 877
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 877
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 876
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 876
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 877
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 877
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 876
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 876
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 877
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 877
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 840
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 840
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 840
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 839
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 839
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 840
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 840
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 840
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 801
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 797
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 797
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 797
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 797
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 797
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 797
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 797
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 797
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 801
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 757
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 758
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 757
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 757
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 756
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 756
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 757
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 757
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 758
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 757
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 717
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 717
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 717
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 717
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 717
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 717
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 717
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 717
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 717
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 717
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 717
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 717
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 677
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 677
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 677
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 677
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 677
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 677
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 677
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_197
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 677
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_198
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 677
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_199
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 677
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_200
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 640
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_201
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 641
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_202
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 640
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_203
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 640
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_204
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 640
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_205
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 640
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_206
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 641
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_207
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 640
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_208
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 601
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_209
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 597
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_210
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 597
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_211
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 596
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_212
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 596
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_213
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 596
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_214
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 596
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_215
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 596
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_216
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 596
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_217
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 597
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_218
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 597
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_219
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 601
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_221
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 556
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_222
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 556
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_223
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 557
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_224
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 556
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_225
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 556
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_226
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 556
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_227
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 556
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_228
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 557
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_229
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 556
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_230
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 556
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_231
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 556
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_232
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 516
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_233
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 516
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_234
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 516
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_235
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 517
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_236
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 516
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_237
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 516
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_238
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 516
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_239
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 516
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_240
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 517
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_241
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 516
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_242
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 516
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_243
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 516
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_244
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_245
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 476
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_246
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 477
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_247
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 477
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_248
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 476
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_249
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 476
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_250
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 437
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_251
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 437
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_252
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 436
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_253
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 436
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_254
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 437
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_255
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 437
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_256
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 436
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_257
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 436
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_258
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 437
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_259
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 437
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_260
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 399
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_261
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 400
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_262
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 400
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_263
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 399
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_264
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 399
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_265
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 400
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_266
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 400
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_267
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 399
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_268
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 356
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_269
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 356
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_270
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 358
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_271
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 358
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_272
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 356
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_273
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 356
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_274
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 315
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_275
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 317
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_276
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 315
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_277
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 315
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_278
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 317
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_279
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 315
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_280
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 275
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_281
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 275
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_282
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 275
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_283
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 275
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_284
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 275
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_285
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 275
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_286
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 239
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_287
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 239
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_288
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 239
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_289
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 239
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_290
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 239
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_291
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 239
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_292
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 239
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_293
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 239
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_294
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 239
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_295
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 239
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_296
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 197
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_297
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_298
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 197
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_299
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_300
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 198
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_301
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_302
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_303
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 198
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_304
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_305
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 197
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_306
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 198
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_307
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 197
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_308
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_309
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 157
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_310
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 157
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_311
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 156
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_312
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 156
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_313
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 156
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_314
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 156
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_315
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 157
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_316
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 157
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_317
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 162
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_318
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 117
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_319
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 117
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_320
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 116
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_321
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 116
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_322
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 116
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_323
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 116
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_324
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 117
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_325
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 117
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_326
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 77
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_327
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 76
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_328
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 76
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_329
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 77
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_330
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 76
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_331
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 76
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_332
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 76
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_333
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 76
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_334
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 77
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_335
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 76
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_336
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 76
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_337
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 77
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_338
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_339
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_340
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 37
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_341
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 36
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_342
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 36
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_343
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 36
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_344
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 36
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_345
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 37
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_346
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_347
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_348
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_349
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_350
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_351
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_352
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_353
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_354
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Super_Mario_3_Mario_SpriteSheet_355
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
